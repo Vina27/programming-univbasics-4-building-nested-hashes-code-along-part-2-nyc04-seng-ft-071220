@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-#require_relative '../lib/updating_nested_hashes.rb'
+require_relative '../lib/updating_nested_hashes.rb'
 
 def update_status
    epic_tragedy = {
