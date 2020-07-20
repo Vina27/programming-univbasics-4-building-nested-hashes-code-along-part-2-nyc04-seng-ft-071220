@@ -74,9 +74,9 @@ def add_characters
    epic_tragedy
 end
 
-:additional_characters => [{name: "Prince Escalus"}, {name:  
-  "Apothecary"}] 
-epic_tragedy.push[:additional_characters]
+#:additional_characters => [{name: "Prince Escalus"}, {name:  
+ # "Apothecary"}] 
+#epic_tragedy.push[:additional_characters]
   :additional_characters => [{name: "Prince Escalus"}, {name: "Apothecary"}]
 
 #hash_name[key][key within key]=value
