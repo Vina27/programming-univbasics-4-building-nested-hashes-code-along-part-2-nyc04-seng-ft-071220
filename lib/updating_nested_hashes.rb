@@ -75,6 +75,8 @@ def add_characters
   #"Apothecary"] 
  # epic_tragedy[:additional_characters][{name: "Prince Escalus"}, {name: "Apothecary"}]
  epic_tragedy[:additional_characters] = []
+ price = {name: "Prince"}
+ apothecary = {name: "Apothecary"}
  
  
    epic_tragedy
