@@ -29,7 +29,7 @@ epic_tragedy[:heroine][:status] = "dead"
 end 
 
 
-
+hash_name[key][key within key]=value
 
 
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
