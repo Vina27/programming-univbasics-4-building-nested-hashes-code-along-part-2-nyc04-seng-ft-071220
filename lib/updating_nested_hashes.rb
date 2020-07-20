@@ -28,7 +28,7 @@ epic_tragedy[:hero][:status] = "dead"
 #update_status 
 
 epic_tragedy[:heroine][:status] = "dead"
- puts update_status 
+ puts epic_tragedy 
 
 end
 
