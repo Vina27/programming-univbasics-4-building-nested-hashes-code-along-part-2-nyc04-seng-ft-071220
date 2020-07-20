@@ -29,8 +29,8 @@ epic_tragedy[:hero][:status] = "dead"
 
 epic_tragedy[:heroine][:status] = "dead"
  end
- puts epic_tragedy 
-
+ epic_tragedy 
+end 
 
 
 
