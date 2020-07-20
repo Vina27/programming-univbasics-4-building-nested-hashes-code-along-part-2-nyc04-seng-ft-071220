@@ -73,5 +73,8 @@ def add_characters
   # After your code, the following line will return the altered hash
    epic_tragedy
 end
+epic_tragedy = {
+  :additional_characters []
+}
 
 #hash_name[key][key within key]=value
