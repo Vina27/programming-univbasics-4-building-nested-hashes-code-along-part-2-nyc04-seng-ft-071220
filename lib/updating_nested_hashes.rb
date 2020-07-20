@@ -29,7 +29,7 @@ epic_tragedy[:heroine][:status] = "dead"
 end 
 
 
-hash_name[key][key within key]=value
+
 
 
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
@@ -73,3 +73,5 @@ def add_characters
   # After your code, the following line will return the altered hash
    epic_tragedy
 end
+
+hash_name[key][key within key]=value
