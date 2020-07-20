@@ -22,7 +22,7 @@ def update_status
 
 #update_status 
 
-epic_tragedy[:hero][:status] = "dead" 
+update_status = epic_tragedy[:hero][:status] = "dead" 
 epic_tragedy[:heroine][:status] = "dead"
  end
  epic_tragedy 
